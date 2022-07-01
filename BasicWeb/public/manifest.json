@@ -1,0 +1,8 @@
+{
+  "short_name": "BasicWeb",
+  "name": "Basic Web",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
